@@ -7,5 +7,5 @@ storiesOf(component, module)
   .add(
       'default',
        () => (
-    <ContentWithTitle text='fff'/>
+    <ContentWithTitle text='fffmoreffffff'/>
   ))
